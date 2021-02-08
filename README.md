@@ -1,2 +1,6 @@
 # CpcdosOS2.1.5
-Prototype of the next Cpcdos kernel major update. x86_32 micro-kernel
+### What is this ?
+
+It's a simple prototype of the future CpcdosOS2.2 micro-kernel. Only for tests and micro-kernel architecture learning.
+
+**Not desing for a public use.**
