@@ -1,5 +1,5 @@
 // KERNEL.C
-#include <stdint.h>
+#include <stdint.h> // Lib
 #include <stivale.h>
 
 #define VGA_ADDRESS 0xb8000
