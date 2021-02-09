@@ -1,7 +1,7 @@
 // KERNEL.C
 #include <stdint.h> // Lib
 #include <stivale.h>
-
+// CONSTANTE
 #define VGA_ADDRESS 0xb8000
 #define VGA_COLOR(character, color) ((uint16_t)(character) | (uint16_t)(color) << 8)
 #define VGA_BLACK 0
